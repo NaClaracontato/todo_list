@@ -1,7 +1,7 @@
 # todo_list
 
 <p>
-O Lista de Tarefas em Flutter é um aplicativo móvel desenvolvido utilizando o framework Flutter, com o objetivo de proporcionar aos usuários uma maneira eficiente e intuitiva de gerenciar suas tarefas diárias. Este projeto visa facilitar a organização pessoal e aumentar a produtividade, permitindo que os usuários criem, editem e acompanhem suas tarefas de forma simples e prática.
+A Lista de Tarefas é um aplicativo móvel desenvolvido utilizando o framework Flutter, com o objetivo de proporcionar aos usuários uma maneira eficiente e intuitiva de gerenciar suas tarefas diárias. Este projeto visa facilitar a organização pessoal e aumentar a produtividade, permitindo que os usuários criem, editem e acompanhem suas tarefas de forma simples e prática.
 </p>
 
 
