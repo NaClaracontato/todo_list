@@ -14,6 +14,12 @@ A Lista de Tarefas é um aplicativo móvel desenvolvido utilizando o framework F
   Excluir Tarefas: Possibilidade de remover tarefas concluídas ou não mais relevantes.
 </p>
 
+
+
+https://github.com/NaClaracontato/todo_list/assets/163739238/5c02fcb3-559b-4c0e-a7d0-da2a978b5403
+
+
+
 ## Tecnologias Utilizadas
 
 <p>
